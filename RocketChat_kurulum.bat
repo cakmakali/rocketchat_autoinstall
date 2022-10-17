@@ -10,7 +10,6 @@ goto :secim
 :1
 powershell.exe winget install RocketChat.RocketChat
 echo Kurulum tamamlandi.
-echo server adresine --  http://192.168.10.102:3000 -- yaziniz
 goto :tamam
 :2
 echo Kurulumdan vazgecildi iyi gunler :)
